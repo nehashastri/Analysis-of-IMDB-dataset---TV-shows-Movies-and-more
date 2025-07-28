@@ -6,6 +6,12 @@ This repository documents a data analytics project that explored over 21 million
 
 https://public.tableau.com/app/profile/divyam.rana5237/viz/ExploringtheMovieDataset/MovieDashboard?publish=yes
 
+<img width="848" height="419" alt="image" src="https://github.com/user-attachments/assets/55540512-7ad7-4850-9d92-2a77bc52136a" />
+
+<img width="857" height="443" alt="image" src="https://github.com/user-attachments/assets/1d60fd25-aeaf-4ce3-8180-e8377033abd4" />
+
+
+
 ## Objective
 
 Analyze large-scale IMDb datasets to uncover:
