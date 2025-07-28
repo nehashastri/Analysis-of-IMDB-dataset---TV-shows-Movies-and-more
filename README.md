@@ -4,7 +4,7 @@ This repository documents a data analytics project that explored over 21 million
 
 ## Dashboard Link:
 
-https://public.tableau.com/app/profile/divyam.rana5237/viz/ExploringtheMovieDataset/MovieDashboard?publish=yes
+[https://public.tableau.com/app/profile/divyam.rana5237/viz/ExploringtheMovieDataset/MovieDashboard?publish=yes](https://public.tableau.com/app/profile/neha.shastri/viz/IMDBProjectDashboard/MovieDashboard#1)
 
 <img width="848" height="419" alt="image" src="https://github.com/user-attachments/assets/55540512-7ad7-4850-9d92-2a77bc52136a" />
 
